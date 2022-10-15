@@ -28,9 +28,9 @@ for (i = 0, a = 0; i == 0; ++a) {
             } else {
 
 
-                lastLine = " lines of code";
-                lastWords = i - 1 + " lines of code in the file";
-                console.log(i + " lines of code in the file, " + i + " lines of code; " + friends[a] + " stikes one out, clears it all out, " + lastWords);
+                lastLine = "lines of code";
+                lastWords = i - 1 + "lines of code in the file";
+                console.log(i + "lines of code in the file, " + i + " lines of code; " + friends[a] + " stikes one out, clears it all out, " + lastWords);
 
             }
         }
